@@ -1,1 +1,3 @@
 This is the first bunch of text I've added to GitHub! Hello World!!!!
+
+Here's some other text I'm adding to play around with Git
